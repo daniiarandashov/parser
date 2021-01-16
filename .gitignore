@@ -1,0 +1,3 @@
+# unwishible directories
+.vscode/
+venv/
