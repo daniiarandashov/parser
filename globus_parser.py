@@ -5,7 +5,7 @@ import psycopg2
 connection = psycopg2.connect(
     dbname = 'postgres',
     user = 'postgres',
-    password = '12121987d',
+    password = '*******',
     host = 'localhost'
 )
 cursor = connection.cursor()
